@@ -1,0 +1,31 @@
+.produtos-moda tr th {
+    background-color: #BB86FC;
+    color: beige;
+    margin: 12px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.produtos-moda tr td {
+    background-color: #424250;
+    color: beige;
+    margin: 12px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.produtos-casa tr th {
+    background-color: #00C4B4;
+    color: beige;
+    margin: 12px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.produtos-casa tr td {
+    background-color: #424250;
+    color: beige;
+    margin: 12px;
+    padding: 5px;
+    font-size: 20px;
+}
